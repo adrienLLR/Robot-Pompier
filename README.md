@@ -14,3 +14,5 @@ Pour compiler le projet :
   (Note : Le test sur la carte spiralOfMadness est un peu long car les feux sont long à éteindre)
 
 - Pour nettoyer le dossier, taper : make clean
+
+![](image/firefighter.gif)
